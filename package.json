@@ -14,7 +14,7 @@
         "pid"
     ],
     "dependencies": {
-        "table-parser": "*"
+        "table-parser": "git+https://github.com/hitchcott/table-parser.git#1b6b969f0c4e632df55191ab3a5d0dcaaae23c12"
     },
     "license": "MIT"
 }
